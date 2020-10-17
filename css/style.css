@@ -14,7 +14,7 @@ li a{
   text-decoration: none;
   font-weight: bold;
   font-size: 20px;
-  font-family: sans-serif;
+  font-family: times, serif;
   display: inline-block;
   background-color: #000000;
   color: #9e0000;
@@ -32,7 +32,7 @@ h1 {
   text-decoration: overline;
   text-align: center;
   font-size: 70px;
-  font-family: sans-serif;
+  font-family: times, serif;
   text-shadow: 5px 5px #9e0000;
   font-variant: normal;
   background-color: #700000;
@@ -45,7 +45,7 @@ h2 {
   text-decoration: overline;
   text-align: center;
   font-size: 30px;
-  font-family: sans-serif;
+  font-family: times, serif;
   text-shadow: 2px 2px #9e0000;
   background-color: #700000;
   color: #000000;
@@ -55,7 +55,7 @@ h3 {
   text-decoration: overline;
   text-align: center;
   font-size: 20px;
-  font-family: sans-serif;
+  font-family: times, serif;
   text-shadow: 2px 2px #9e0000;
   background-color: #700000;
   color: #000000;
@@ -67,7 +67,7 @@ body {
   margin: 0px
 }
 p {
-  font-family: sans-serif;
+  font-family: times, serif;
   font-size: 15px;
   text-align: center;
   background-color: #700000;
@@ -89,7 +89,7 @@ p {
   text-transform: uppercase;
   text-decoration: overline;
   font-size: 20px;
-  font-family: sans-serif;
+  font-family: times, serif;
   text-shadow: 2px 2px #9e0000;
   background-color: #700000;
   color: #000000;
